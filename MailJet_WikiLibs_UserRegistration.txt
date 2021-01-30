@@ -1,0 +1,27 @@
+Wikilibs [https://xv2ig.mjt.lu/tplimg/xv2ig/b/xk5ht/gxz3w.png] [https://wikilibs-dev.azurewebsites.net/]Thank you for joining Wikilibs, {{var:UserName}}  ! Please confirm you email address by clicking on the button below.
+
+CONFIRM EMAIL [{{var:Link}}]
+
+If the button doesn't work, please copy paste the following confimation code:
+
+{{var:ConfirmCode}}
+
+Please send an email to wikilibs@support.net and give the previous code.
+
+
+
+With a confirmed account, you can :
+
+like [https://xv2ig.mjt.lu/tplimg/xv2ig/b/xk5ht/gxgtx.png]Like comments that you find the most interseting.
+
+community [https://xv2ig.mjt.lu/tplimg/xv2ig/b/xk5ht/gxgt0.png]Add custom example to any symbol.
+
+parser [https://xv2ig.mjt.lu/tplimg/xv2ig/b/xk5ht/gxgu8.png]Use the Wikilibs
+parser to upload
+your own library.
+
+If you didn't created an account please do not click the button.
+
+You received this email after creating an account on wikilibs.com [https://wikilibs-dev.azurewebsites.net/]  using this email.
+
+Wikilibs [https://xv2ig.mjt.lu/tplimg/xv2ig/b/xk5ht/gxz55.png]WIKILIBS © 2020 all rights reserved
